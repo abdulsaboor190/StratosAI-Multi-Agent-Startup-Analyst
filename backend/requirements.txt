@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-groq
+langchain-community
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+tavily-python
+chromadb
+httpx
+sse-starlette
